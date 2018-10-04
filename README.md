@@ -1,3 +1,8 @@
+Discontinued
+============
+This repository is no longer actively maintained. Please take a look at the [original repo](https://github.com/impossibl/pgjdbc-ng).
+
+
 # pgjdbc-ng
 
 A new JDBC driver for PostgreSQL aimed at supporting the advanced features of JDBC and Postgres
